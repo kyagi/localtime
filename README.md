@@ -1,7 +1,11 @@
 # localtime
-Select and show localtime in cities you pick
+Select and show localtime in cities you pick.
 
 ## Requirements
 
-## Usage
+[peco](https://github.com/peco/peco) is needed by localtime.
 
+## Usage
+```
+localtime [-c configfile]
+```
